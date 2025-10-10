@@ -20,6 +20,17 @@
       "author": {
         "name": "JKKN Engineering"
       }
+    },
+    {
+      "name": "typescript-pro",
+      "source": "./plugins/typescript-pro",
+      "description": "Advanced TypeScript development with type system mastery and strict typing patterns",
+      "version": "1.0.0",
+      "category": "development",
+      "keywords": ["typescript", "types", "type-safety", "generics", "strict-mode"],
+      "author": {
+        "name": "JKKN Engineering"
+      }
     }
   ]
 }
