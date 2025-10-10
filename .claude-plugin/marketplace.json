@@ -20,28 +20,6 @@
       "author": {
         "name": "JKKN Engineering"
       }
-    },
-    {
-      "name": "staging-deployment",
-      "source": "./plugins/staging-deployment",
-      "description": "Pre-deployment checklist and automation for staging environment",
-      "version": "1.0.0",
-      "category": "deployment",
-      "keywords": ["deploy", "staging", "checks"],
-      "author": {
-        "name": "JKKN Engineering"
-      }
-    },
-    {
-      "name": "security-scan-workflow",
-      "source": "./plugins/security-scan-workflow",
-      "description": "Standardized security scanning workflow with consistent tooling",
-      "version": "1.0.0",
-      "category": "security",
-      "keywords": ["security", "scanning", "compliance"],
-      "author": {
-        "name": "JKKN Engineering"
-      }
     }
   ]
 }
