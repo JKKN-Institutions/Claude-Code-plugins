@@ -1,0 +1,47 @@
+{
+  "name": "jkkn-engineering-standards",
+  "owner": {
+    "name": "JKKN Engineering Team",
+    "email": "aiengineering@jkkn.ac.in"
+  },
+  "metadata": {
+    "description": "Official engineering workflows and standards for JKKN. Institutional knowledge as executable infrastructure.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "pr-review-checklist",
+      "source": "./plugins/pr-review-checklist",
+      "description": "Standardized PR review workflow - ensures consistent merge criteria across all teams",
+      "version": "1.0.0",
+      "category": "code-quality",
+      "keywords": ["pr", "review", "quality", "standards"],
+      "author": {
+        "name": "JKKN Engineering"
+      }
+    },
+    {
+      "name": "staging-deployment",
+      "source": "./plugins/staging-deployment",
+      "description": "Pre-deployment checklist and automation for staging environment",
+      "version": "1.0.0",
+      "category": "deployment",
+      "keywords": ["deploy", "staging", "checks"],
+      "author": {
+        "name": "JKKN Engineering"
+      }
+    },
+    {
+      "name": "security-scan-workflow",
+      "source": "./plugins/security-scan-workflow",
+      "description": "Standardized security scanning workflow with consistent tooling",
+      "version": "1.0.0",
+      "category": "security",
+      "keywords": ["security", "scanning", "compliance"],
+      "author": {
+        "name": "JKKN Engineering"
+      }
+    }
+  ]
+}
