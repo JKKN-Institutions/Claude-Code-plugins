@@ -7,5 +7,5 @@ Official Claude Code plugin marketplace for JKKN. Standardized workflows, not sc
 ## 🚀 Quick Start
 
 ```bash
-/plugin marketplace add JKKN-Institutions/Claude-Code-plugins
+/plugin marketplace add https://github.com/JKKN-Institutions/Claude-Code-plugins
 ```
