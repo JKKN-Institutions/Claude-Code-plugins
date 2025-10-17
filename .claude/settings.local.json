@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(tree:*)",
+      "Bash(ls -la \"D:\\Projects\\JKKN\\Claude-Code-plugins\\plugins\"\" && echo \"---\" && ls -la \"D:ProjectsJKKNClaude-Code-pluginsdocs\"\")",
+      "Bash(dir:*)",
+      "Bash(echo:*)"
     ],
     "deny": [],
     "ask": []
