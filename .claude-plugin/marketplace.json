@@ -32,5 +32,18 @@
         "name": "JKKN Engineering"
       }
     }
+  
+  {
+  "name": "jkkn-debug-plugin",
+  "version": "1.0.0",
+  "description": "Comprehensive debugging plugin for identifying and fixing errors, performance issues, and test failures",
+  "author": {
+    "name": "JKKN Engineering",
+    "email": "aiengineering@jkkn.ac.in"
+  },
+  "homepage": "https://github.com/JKKN-Institutions/Claude-Code-plugins",
+  "keywords": ["debug", "debugging", "error", "troubleshooting", "testing", "performance"]
+   }
   ]
+  
 }
