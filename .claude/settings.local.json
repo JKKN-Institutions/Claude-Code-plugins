@@ -5,7 +5,8 @@
       "Bash(tree:*)",
       "Bash(ls -la \"D:\\Projects\\JKKN\\Claude-Code-plugins\\plugins\"\" && echo \"---\" && ls -la \"D:ProjectsJKKNClaude-Code-pluginsdocs\"\")",
       "Bash(dir:*)",
-      "Bash(echo:*)"
+      "Bash(echo:*)",
+      "Bash(python package_skill.py:*)"
     ],
     "deny": [],
     "ask": []
